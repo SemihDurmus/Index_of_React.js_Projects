@@ -2,4 +2,4 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  |SDR_01     |Movies | [Repository](https://github.com/SemihDurmus/SDR_01_Movies)| |
+  |SDR_01     |Movies | [Repository](https://github.com/SemihDurmus/SDR_01_Movies)| <img src='Assets/Movies40s.gif' width='700px'>|
