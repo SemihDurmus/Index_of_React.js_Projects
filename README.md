@@ -1,4 +1,7 @@
-<h1 align="center">Index of React.js Works</h1>  
+<p align="center"> 
+    <img src='logo_react.png' height=120>
+    <h1 align="center">Index of React.js Works</h1>
+</p> 
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
