@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src='logo_react.png' height=120>
+    <img src='Assets/logo_react.png' height=130>
     <h1 align="center">Index of React.js Works</h1>
 </p> 
   
