@@ -3,6 +3,8 @@
     <h1 align="center">Index of React.js Projects</h1>
 </p> 
   
-  | Project Code | Name     | Repo link                                                      |           Overview                  |
-  |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  |SDR_01     |Movies | [Repository](https://github.com/SemihDurmus/SDR_01_Movies)| <img src='Assets/Movies40s2.gif' width='700px'>|
+| Name     | Repo link                                                      |           Overview                  |
+|:--------:|:--------------------------------------------------------------:|------------------------------------:|
+|Movies | [Repository](https://github.com/SemihDurmus/SDR_01_Movies)| <img src='Assets/Movies40s2.gif' width='700px'>|
+|FullStack Blog | [Backend repository](https://github.com/SemihDurmus/Fullstack_Blog_App_Backend.git)| |
+| | Frontend side is coming soon |
