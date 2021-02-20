@@ -6,5 +6,5 @@
 | Name     | Links                                                      |           Overview                  |
 |:--------:|:--------------------------------------------------------------:|------------------------------------:|
 |Movies | [Repository](https://github.com/SemihDurmus/SDR_01_Movies)| <img src='Assets/Movies40s2.gif' width='700px'>|
-|FullStack Blog<br/>BackEnd Side <br/> (Created w Django)  | -[Repository](https://github.com/SemihDurmus/Fullstack_Blog_App_Backend.git)<br/> -[Live on Heroku](https://fsblog-backend.herokuapp.com/api/post-list/)<br/> -[Base url and other endpoints](https://fsblog-backend.herokuapp.com/)| <img src='Assets/blog_backend.png' width='700px'>|
+|FullStack Blog<br/>BackEnd Side <br/> (Created w Django)  | -[Repository](https://github.com/SemihDurmus/Fullstack_Blog_App_Backend.git)<br/> -[Live on Heroku](https://fs-blog-backend.herokuapp.com/api/post-list/)<br/> -[Base url and other endpoints](https://fs-blog-backend.herokuapp.com/)| <img src='Assets/blog_backend.png' width='700px'>|
 |FullStack Blog<br/>FrontEnd Side | -[Repository](https://github.com/SemihDurmus/FullStack_Blog_App_FrontEnd)<br/> | <p align="left">Coming soon...</p>|
